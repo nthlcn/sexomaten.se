@@ -187,8 +187,8 @@ img{
 
 
 #intro{
-	background:url(images/logo.png) 0 no-repeat;
-	background-color:#ffcc33;
+	background:url(images/intro_logo.png) 0 no-repeat;
+	background-color:#ff6666;
 	background-position:center;
 	background-size:auto;
 	position: relative;
@@ -238,8 +238,8 @@ img{
 
 
 #traveler{
-	background: url(images/bg40.png) 50% no-repeat fixed;
-	background-color:#f4d0ad;
+	background: url(images/dec_back_40.jpg) 50% no-repeat fixed;
+	background-color:#ffcc33;
 	background-size:1071px;
 	color: white;
 	height: 120%;
@@ -251,7 +251,8 @@ img{
 }
 
 #traveler .bg{
-	background: url(images/traveler.png) 50% 84.5% no-repeat fixed;
+	background: url(images/dec_icon_40_vector.png) 50% 84.5% no-repeat fixed;
+	background-size: 40%;
 	height: 120%;
 	padding: 0;
 	position: absolute;
@@ -262,7 +263,7 @@ img{
 
 #third{
 	background: url(images/fond2.jpg) 50% 0 no-repeat fixed;
-	background-color:#b1deed;
+	background-color:#448ccb;
 	background-size:1071px;
 	color: white;
 	height: 120%;
@@ -270,7 +271,8 @@ img{
 }
 
 #third .bg{
-	background: url(images/weirdo.png) 50% 78.5% no-repeat fixed;
+	background: url(images/dec_icon_50_vector.png) 50% 78.5% no-repeat fixed;
+	background-size: 40%;
 	height: 120%;
 	padding: 0;
 	position: absolute;
@@ -280,7 +282,7 @@ img{
 
 #hipster{
 	background: url(images/fond3.jpg) 50% 0 no-repeat fixed;
-	background-color:#f79cc1;
+	background-color:#3cb878;
 	background-size:1071px;
 	color: white;
 	height: 120%;
@@ -288,7 +290,7 @@ img{
 }
 
 #hipster .bg{
-	background: url(images/velo3.png) 50% 83% no-repeat fixed;
+	background: url(images/dec_icon_60_vector.png) 50% 83% no-repeat fixed;
 	height: 120%;
 	padding: 0;
 	position: absolute;
@@ -298,7 +300,7 @@ img{
 
 #fond4{
 	background: url(images/fond4.jpg) 50% 0 no-repeat fixed;
-	background-color:#abe7f4;
+	background-color:#8560a8;
 	background-size:1071px;
 	color: white;
 	height: 120%;
@@ -306,7 +308,7 @@ img{
 }
 
 #fond4 .bg{
-	background: url(images/velo4.png) 50% 85% no-repeat fixed;
+	background: url(images/dec_icon_70_vector.png) 50% 85% no-repeat fixed;
 	height: 120%;
 	padding: 0;
 	position: absolute;
@@ -316,7 +318,7 @@ img{
 
 #fond5{
 	background: url(images/fond5.jpg) 50% 0 no-repeat fixed;
-	background-color:#f8d5b8;
+	background-color:#f06eaa;
 	background-size:1071px;
 	color: white;
 	height: 120%;
@@ -324,7 +326,7 @@ img{
 }
 
 #fond5 .bg{
-	background: url(images/velo5.png) 50% 85% no-repeat fixed;
+	background: url(images/dec_icon_80_vector.png) 50% 85% no-repeat fixed;
 	height: 120%;
 	padding: 0;
 	position: absolute;
@@ -333,7 +335,7 @@ img{
 }
 #fond6{
 	background: url(images/fond6.jpg) 50% 0 no-repeat fixed;
-	background-color:#a0e3ff;
+	background-color:#ff9966;
 	background-size:1071px;
 	color: white;
 	height: 120%;
@@ -341,7 +343,7 @@ img{
 }
 
 #fond6 .bg{
-	background: url(images/velo6.png) 50% 82% no-repeat fixed;
+	background: url(images/dec_icon_90_vector.png) 50% 82% no-repeat fixed;
 	height: 120%;
 	padding: 0;
 	position: absolute;
@@ -547,8 +549,8 @@ img{
 }
 
 #fond19{
-	background: url(images/bg40.png) 50% no-repeat fixed;
-	background-color:#6666ff;
+	background: url(images/dec_back_40.jpg) 50% no-repeat fixed;
+	background-color:#ffcc33;
 	background-size:1071px;
 	color: white;
 	height: 120%;
@@ -560,7 +562,7 @@ img{
 }
 
 #fond19 .bg{
-	background: url(images/velo18.png) 50% 113% no-repeat fixed;
+	background: url(images/dec_icon_40_vector.png) 50% 113% no-repeat fixed;
 	height: 120%;
 	padding: 0;
 	position: absolute;
