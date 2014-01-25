@@ -175,7 +175,7 @@ img{
 	
 }
 #nom {
-		opacity:1;
+	opacity:1;
 	right:20px;
 	position:absolute;
 }
@@ -262,7 +262,7 @@ img{
 
 
 #third{
-	background: url(images/fond2.jpg) 50% 0 no-repeat fixed;
+	background: url(images/dec_back_50.jpg) 50% 0 no-repeat fixed;
 	background-color:#448ccb;
 	background-size:1071px;
 	color: white;
@@ -271,7 +271,7 @@ img{
 }
 
 #third .bg{
-	background: url(images/dec_icon_50_vector.png) 50% 78.5% no-repeat fixed;
+	background: url(images/dec_icon_50_vector.png) 50% 83% no-repeat fixed;
 	background-size: 40%;
 	height: 120%;
 	padding: 0;
@@ -291,6 +291,7 @@ img{
 
 #hipster .bg{
 	background: url(images/dec_icon_60_vector.png) 50% 83% no-repeat fixed;
+	background-size: 40%;
 	height: 120%;
 	padding: 0;
 	position: absolute;
@@ -309,6 +310,7 @@ img{
 
 #fond4 .bg{
 	background: url(images/dec_icon_70_vector.png) 50% 85% no-repeat fixed;
+	background-size: 40%;
 	height: 120%;
 	padding: 0;
 	position: absolute;
@@ -327,6 +329,7 @@ img{
 
 #fond5 .bg{
 	background: url(images/dec_icon_80_vector.png) 50% 85% no-repeat fixed;
+	background-size: 40%;
 	height: 120%;
 	padding: 0;
 	position: absolute;
@@ -343,7 +346,8 @@ img{
 }
 
 #fond6 .bg{
-	background: url(images/dec_icon_90_vector.png) 50% 82% no-repeat fixed;
+	background: url(images/dec_icon_90_vector.png) 50% 84.5% no-repeat fixed;
+	background-size: 40%;
 	height: 120%;
 	padding: 0;
 	position: absolute;
@@ -385,220 +389,6 @@ img{
 	width:inherit;
 	z-index: 10;
 }
-#fond9{
-	background: url(images/fond9.jpg) 50% 0 no-repeat fixed;
-	background-color:#c6deff;
-	background-size:1071px;
-
-	color: white;
-	height: 120%;
-	padding:0;	
-}
-
-#fond9 .bg{
-	background: url(images/velo9.png) 50% 82% no-repeat fixed;
-	height: 120%;
-	padding: 0;
-	position: absolute;
-	width:inherit;
-	z-index: 10;
-}
-#fond10{
-	background: url(images/fond10.jpg) 50% 0 no-repeat fixed;
-	background-color:#91f9d3;
-	background-size:1071px;
-
-	color: white;
-	height: 120%;
-	padding:0;	
-}
-
-#fond10 .bg{
-	background: url(images/velo10.png) 50% 83% no-repeat fixed;
-	height: 120%;
-	padding: 0;
-	position: absolute;
-	width:inherit;
-	z-index: 10;
-}
-#fond11{
-	background: url(images/fond11.jpg) 50% 0 no-repeat fixed;
-	background-color:#f8c075;
-	background-size:1071px;
-
-	color: white;
-	height: 120%;
-	padding:0;	
-}
-
-#fond11 .bg{
-	background: url(images/velo11.png) 50% 80% no-repeat fixed;
-	height: 120%;
-	padding: 0;
-	position: absolute;
-	width:inherit;
-	z-index: 10;
-}
-#fond12{
-	background: url(images/fond122.jpg) 50% 0 no-repeat fixed;
-	background-color:#ffd4ab;
-	background-size:1071px;
-
-	color: white;
-	height: 120%;
-	padding:0;	
-}
-
-#fond12 .bg{
-	background: url(images/velo12.png) 50% 80.5% no-repeat fixed;
-	height: 120%;
-	padding: 0;
-	position: absolute;
-	width:inherit;
-	z-index: 10;
-}
-#fond13{
-	background: url(images/fond13.jpg) 50% 0 no-repeat fixed;
-	background-color:#b2fad7;
-	background-size:1071px;
-
-	color: white;
-	height: 120%;
-	padding:0;	
-}
-
-#fond13 .bg{
-	background: url(images/velo13.png) 50% 82% no-repeat fixed;
-	height: 120%;
-	padding: 0;
-	position: absolute;
-	width:inherit;
-	z-index: 10;
-}
-#fond14{
-	background: url(images/fond14.jpg) 50% 0 no-repeat fixed;
-	background-color:#dbdbdb;
-	background-size:1071px;
-
-	color: white;
-	height: 120%;
-	padding:0;	
-}
-
-#fond14 .bg{
-	background: url(images/velo14.png) 50% 83.5% no-repeat fixed;
-	height: 120%;
-	padding: 0;
-	position: absolute;
-	width:inherit;
-	z-index: 10;
-}
-#fond15{
-	background: url(images/fond15.jpg) 50% 0 no-repeat fixed;
-	background-color:#fddcae;
-	background-size:1071px;
-
-	color: white;
-	height: 120%;
-	padding:0;	
-}
-
-#fond15 .bg{
-	background: url(images/velo15.png) 50% 83% no-repeat fixed;
-	height: 120%;
-	padding: 0;
-	position: absolute;
-	width:inherit;
-	z-index: 10;
-}
-#fond16{
-	background: url(images/fond16.jpg) 50% 0 no-repeat fixed;
-	background-color:#fb9d79;
-	background-size:1071px;
-
-	color: white;
-	height: 120%;
-	padding:0;	
-}
-
-#fond16 .bg{
-	background: url(images/velo16.png) 50% 82.5% no-repeat fixed;
-	height: 120%;
-	padding: 0;
-	position: absolute;
-	width:inherit;
-	z-index: 10;
-}
-#fond17{
-	background: url(images/fond17.jpg) 50% 0 no-repeat fixed;
-	background-color:#f6978f;
-	background-size:1071px;
-
-	color: white;
-	height: 120%;
-	padding:0;	
-}
-
-#fond17 .bg{
-	background: url(images/velo17.png) 50% 79.5% no-repeat fixed;
-	height: 120%;
-	padding: 0;
-	position: absolute;
-	width:inherit;
-	z-index: 10;
-}
-
-#fond19{
-	background: url(images/dec_back_40.jpg) 50% no-repeat fixed;
-	background-color:#ffcc33;
-	background-size:1071px;
-	color: white;
-	height: 120%;
-	width:100%;
-	margin: 0 auto;
-	padding-top:0;
-	overflow: hidden;
-	position:relative;
-}
-
-#fond19 .bg{
-	background: url(images/dec_icon_40_vector.png) 50% 113% no-repeat fixed;
-	height: 120%;
-	padding: 0;
-	position: absolute;
-	width:inherit;
-	z-index: 10;
-	top:0px;
-}
-
-#fond19 img {
-	position:fixed;
-	bottom:44px;
-	right:40px;
-	display:none;
-}
-
-#fond19 p {
-	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	font-size:11px;	
-	color:#fff;
-	position:fixed;
-	bottom:96px;
-	right:32px;
-	text-align:center;
-	display:none;
-}
-
-#fond19 hr {
-	color:#fff;
-	position:fixed;
-	bottom:86px;
-	right:39px;
-	width:40px;
-	display:none;	
-}
-
-
 
 .story{
 	margin: 0 auto;
